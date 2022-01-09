@@ -1,8 +1,8 @@
-DEVELOPER’S GUIDE TO THE MOCKER PLATFORM
+<h1> DEVELOPER’S GUIDE TO THE MOCKER PLATFORM </h1>
 
 You can use Mocker to build, package, and deploy applications.
 
-BASIC TERMS 
+**BASIC TERMS** 
 
 APP CONTAINERS	
 
@@ -14,9 +14,9 @@ Mocker containers are based on templates called images. You can run a Mocker ima
 
 To create a Mocker image, you need to:
 
-•	know javascript
+•	Know javascript
 
-•	have a basic understanding of app containers. 
+•	Have a basic understanding of app containers. 
 
 ->	If you are less familiar with app containers, you can start using our configuration templates.
 
@@ -33,16 +33,16 @@ The Mocker daemon runs and manages containers on a software virtualization platf
 HOW TO DEPLOY MICROSERVICES:
 
 	Prerequisites:
-	1.	You know the structure of Mockerfiles
-	2.	You know the API of the Mocker daemon
+	1.	You know the structure of Mockerfiles.
+	2.	You know the API of the Mocker daemon.
 
 Step by step:
-1.	Install the Mocker daemon
+1.	Install the Mocker daemon.
 2.	Do you have access to the Mocker administrator tools (paid service)?
 
 	YES:	
 	
-	You can deploy Mocker containers straight away.
+	You can deploy Mocker containers immediately.
 
 	NO:	
 	
@@ -58,31 +58,42 @@ The Mocker administrator tools are optimized for Amazon cloud services. They ena
 ->	Not familiar with Amazon web services? You can read our extensive documentation.
 
 
-THE MOCKER PLATFORM - FAQ
+<h1> THE MOCKER PLATFORM - FAQ </h1>
 
-What is Mocker?
+**What is Mocker?**
+
 Mocker is a software packaging platform. Developers can use it to build, package and deploy applications. 
 
-How does it work?
+**How does it work?**
+
 Mocker is based on app containers. Mocker containers consist of software, libraries, and configuration files. Mocker infrastructure uses only as many containers as needed at a given point in time.
 
-What do you pay for?
-Mocker is a Platform-as-a-Service product. The core technology is open source. Customers pay for: 
-•	the number of Mocker containers run at a given point in time
-•	access to support and administrator tools (optionally)
+**What do you pay for?**
 
-Why would I need administrator tools?
+Mocker is a Platform-as-a-Service product. The core technology is open source. Customers pay for: 
+
+•	The number of Mocker containers run at a given point in time
+
+•	Access to support and administrator tools (optionally).
+
+**Why would I need administrator tools?**
+
 They enable rapid deployment of Mocker containers. You won’t need to do any additional scripting. They save your time and energy.
 
-What if I don’t want to pay for administrator tools?
-Cost optimization will be more difficult because you will have to:
-•	create your own scripts to control the Mocker daemon
-•	manage the initialization and shutdown of containers
+**What if I don’t want to pay for administrator tools?**
 
-What is the Mocker daemon?
+Cost optimization will be more difficult because you will have to:
+
+•	Create your own scripts to control the Mocker daemon
+
+•	Manage the initialization and shutdown of containers.
+
+**What is the Mocker daemon?**
+
 The Mocker daemon runs and manages containers on a software virtualization platform in the cloud.
 
-Does Mocker work on any cloud infrastructure?
+**Does Mocker work on any cloud infrastructure?**
+
 Yes. Containers can run on any cloud infrastructure, but the Mocker administrator tools are optimized for Amazon cloud services. 
 
 
