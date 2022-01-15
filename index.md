@@ -16,7 +16,7 @@ To create a Mocker image, you need to:
 
 •	Know javascript
 
-•	Have a basic understanding of app containers 
+•	Have a basic understanding of app containers
 
 ->	If you are less familiar with app containers, you can start using our configuration templates.
 
@@ -86,7 +86,7 @@ Cost optimization will be more difficult because you will have to:
 
 •	Create your own scripts to control the Mocker daemon
 
-•	Manage the initialization and shutdown of containers
+•	Manage the initialization and shutdown of containers.
 
 **What is the Mocker daemon?**
 
