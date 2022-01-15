@@ -16,7 +16,7 @@ To create a Mocker image, you need to:
 
 •	Know javascript
 
-•	Have a basic understanding of app containers. 
+•	Have a basic understanding of app containers 
 
 ->	If you are less familiar with app containers, you can start using our configuration templates.
 
@@ -53,7 +53,7 @@ Step by step:
 
 
 Important!
-The Mocker administrator tools are optimized for Amazon cloud services. They enable rapid deployment of Mocker containers without the need of additional scripting. 
+The Mocker administrator tools are optimized for Amazon cloud services. They enable a rapid deployment of Mocker containers without the need of additional scripting. 
 
 ->	Not familiar with Amazon web services? You can read our extensive documentation.
 
@@ -74,11 +74,11 @@ Mocker is a Platform-as-a-Service product. The core technology is open source. C
 
 •	The number of Mocker containers run at a given point in time
 
-•	Access to support and administrator tools (optionally).
+•	Access to support and administrator tools (optionally)
 
 **Why would I need administrator tools?**
 
-They enable rapid deployment of Mocker containers. You won’t need to do any additional scripting. They save your time and energy.
+They enable a rapid deployment of Mocker containers. You won’t need to do any additional scripting. They save your time and energy.
 
 **What if I don’t want to pay for administrator tools?**
 
@@ -86,7 +86,7 @@ Cost optimization will be more difficult because you will have to:
 
 •	Create your own scripts to control the Mocker daemon
 
-•	Manage the initialization and shutdown of containers.
+•	Manage the initialization and shutdown of containers
 
 **What is the Mocker daemon?**
 
