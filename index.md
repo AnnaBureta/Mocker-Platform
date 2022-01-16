@@ -14,7 +14,7 @@ Mocker containers are based on templates called images. You can run a Mocker ima
 
 To create a Mocker image, you need to:
 
-•	Know javascript
+•	Know javascript well enough
 
 •	Have a basic understanding of app containers
 
